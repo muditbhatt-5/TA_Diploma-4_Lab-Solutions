@@ -1,6 +1,6 @@
 <?php
 
-echo "-----------------------<br>";
+echo "-----------------------"."<br>";
 // Without argument and without return
 function calculatorWithoutArgWithoutReturn() {
     $a = 10;
